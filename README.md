@@ -1,6 +1,6 @@
-# 🚚 Olist E-Commerce Logistics Optimization & AI Strategic Framework
+# Olist E-Commerce Logistics Optimization
 > **HVIA Data & AI Solutions — Trial Training Task**  
-> *End-to-End Data Pipeline, Governance Profiling, Root Cause Analysis (RCA), and AI Implementation Roadmap.*
+> *End-to-End Data Pipeline, Governance Profiling, Root Cause Analysis (RCA).*
 
 ---
 

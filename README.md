@@ -12,8 +12,8 @@ This repository presents an end-to-end analytical study and AI strategy framewor
 ## Key Findings & Quantified Impact
 * **Platform Defect Rate:** Identified **7,101 late orders** out of 93,193 valid shipments (**7.62% overall late delivery rate**).
 * **The 50/50 Root Cause Split:**
-  * 🔴 **Seller SLA Failures (49.4% / 3,508 Orders):** First-mile handling delay where sellers exceed the standard 3-day dispatch SLA window.
-  * 🟠 **Carrier & Route Inefficiencies (50.6% / 3,593 Orders):** Transit latency concentrated in long-haul regional freight corridors.
+  *  **Seller SLA Failures (49.4% / 3,508 Orders):** First-mile handling delay where sellers exceed the standard 3-day dispatch SLA window.
+  *  **Carrier & Route Inefficiencies (50.6% / 3,593 Orders):** Transit latency concentrated in long-haul regional freight corridors.
 * **Geospatial Disparity:** Long-haul routes originating from **São Paulo (`SP`)** to Northeastern states suffer severe delay rates:
   * `SP ➔ AL` (Alagoas): **20.78% Late Rate** | **19.68 Avg Transit Days**
   * `SP ➔ MA` (Maranhão): **20.43% Late Rate** | **17.65 Avg Transit Days**
